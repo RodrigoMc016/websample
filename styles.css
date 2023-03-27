@@ -3,7 +3,7 @@
 */
 p{ line-height: 1em; }
 h1, h2, h3, h4{
-    color: orange;
+    color: red;
 	font-weight: normal;
 	line-height: 1.1em;
 	margin: 0 0 .5em 0;
@@ -27,7 +27,7 @@ body{
 
 /* or on different lines like below */
 #logo{
-	width: 35%;
+	width: 55%;
 	margin-top: 5px;
 	font-family: georgia;
 	display: inline-block;
